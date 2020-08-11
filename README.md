@@ -1,4 +1,4 @@
-# Homework4_Code_Quiz
+# Code_Quiz
 
 This project was done as a part of a homework project for the University of Miami Bootcamp.
 
